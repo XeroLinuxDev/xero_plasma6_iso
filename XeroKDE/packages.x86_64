@@ -275,10 +275,8 @@ lib32-pipewire-jack
 bluez
 blueberry
 bluez-libs
-bluez-utils
 bluez-plugins
 bluez-hid2hci
-bluez-utils-compat
 
 ### Networking tools
 
@@ -290,7 +288,6 @@ openldap
 nss-mdns
 smbclient
 net-tools
-openresolv
 traceroute
 b43-fwcutter
 modemmanager
@@ -513,30 +510,30 @@ kde-system
 qt6-3d
 qt6-base
 qt6-tools
-qt6-script
-qt6-gamepad
+qt5-script
+qt5-gamepad
 qt6-wayland
 qt6-webview
 qt6-5compat
 qt6-location
 qt6-webengine
-qt6-x11extras
+qt5-x11extras
 qt6-webchannel
 qt6-websockets
 qt6-multimedia
-qt6-purchasing
-qt6-webglplugin
+qt5-purchasing
+qt5-webglplugin
 qt6-networkauth
 qt6-declarative
-qt6-xmlpatterns
+qt5-xmlpatterns
 qt6-connectivity
 qt6-imageformats
 qt6-translations
 qt6-remoteobjects
 qt6-quicktimeline
-qt6-quickcontrols
+qt5-quickcontrols
 qt6-quickcontrols2
-qt6-graphicaleffects
+qt5-graphicaleffects
 
 ### Plasma Selection
 ### https://archlinux.org/groups/x86_64/plasma/
@@ -574,8 +571,8 @@ systemsettings
 kde-gtk-config
 layer-shell-qt
 plasma-desktop
-polkit-kde-agent
 plasma-workspace
+polkit-kde-agent
 kdeplasma-addons
 kactivitymanagerd
 plasma-integration
@@ -661,7 +658,7 @@ glfw-wayland
 lib32-wayland
 wayland-protocols
 kwayland-integration
-plasma-wayland-session
+#plasma-wayland-session
 xwaylandvideobridge-bin
 plasma-wayland-protocols
 

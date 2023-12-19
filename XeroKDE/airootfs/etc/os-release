@@ -1,10 +1,10 @@
-NAME="XeroLinux"
-PRETTY_NAME="XeroLinux"
-ID=XeroLinux
+NAME="Xero-Plasma6"
+PRETTY_NAME="Xero-Plasma6"
+ID=Xero-Plasma6
 ID_LIKE=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
 HOME_URL="https://xerolinux.xyz/"
-LOGO=XeroLinux
-IMAGE_ID=XeroLinux
-IMAGE_VERSION=08-12-2023
+LOGO=Xero-Plasma6
+IMAGE_ID=Xero-Plasma6
+IMAGE_VERSION=12-20-2023

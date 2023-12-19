@@ -21,7 +21,7 @@ echo
 
 	xerolinuxVersion='2023.12'
 
-	isoLabel='xerolinux-'$xerolinuxVersion'-x86_64.iso'
+	isoLabel='xero-plasma6-'$xerolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 73-1"
