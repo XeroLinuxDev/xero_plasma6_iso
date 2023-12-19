@@ -510,6 +510,7 @@ kde-system
 ### QT5
 
 qt5-3d
+qt5-svg
 qt5-base
 qt5-tools
 qt5-script
@@ -539,16 +540,20 @@ qt5-graphicaleffects
 ### QT6
 
 qt6-3d
+qt6-svg
 qt6-base
 qt6-tools
 qt6-5compat
 qt6-wayland
 qt6-webview
+qt6-sensors
 qt6-location
+qt6-serialbus
 qt6-webengine
 qt6-webchannel
 qt6-websockets
 qt6-multimedia
+qt6-serialport
 qt6-networkauth
 qt6-declarative
 qt6-connectivity
@@ -556,6 +561,7 @@ qt6-imageformats
 qt6-translations
 qt6-remoteobjects
 qt6-quicktimeline
+qt6-languageserver
 
 ### Plasma Selection
 ### https://archlinux.org/groups/x86_64/plasma/
